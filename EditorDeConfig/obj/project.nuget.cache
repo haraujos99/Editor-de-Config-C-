@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptjHad5Zxuwn7eKyMwbK7PT5zObeSqhCJsHiq8YKHrT/dDrlQdWDVEH5+0QJ8JxoIZFD7Y0RO0K8Lg96IKESMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiz.sales\\Documents\\Projetos-Integracao\\EditorDeConfig\\EditorDeConfig\\EditorDeConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiz.sales\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
