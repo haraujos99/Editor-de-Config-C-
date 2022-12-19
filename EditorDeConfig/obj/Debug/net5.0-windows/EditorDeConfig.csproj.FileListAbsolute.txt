@@ -21,3 +21,5 @@ C:\Users\luiz.sales\Documents\Projetos-Integracao\EditorDeConfig\EditorDeConfig\
 C:\Users\luiz.sales\Documents\Projetos-Integracao\EditorDeConfig\EditorDeConfig\obj\Debug\net5.0-windows\EditorDeConfig.MainForm.resources
 C:\Users\luiz.sales\Documents\Projetos-Integracao\EditorDeConfig\EditorDeConfig\obj\Debug\net5.0-windows\EditorDeConfig.Forms.FormConfig.resources
 C:\Users\luiz.sales\Documents\Projetos-Integracao\EditorDeConfig\EditorDeConfig\obj\Debug\net5.0-windows\EditorDeConfig.Forms.FormService.resources
+C:\Users\luiz.sales\Documents\Projetos-Integracao\EditorDeConfig\EditorDeConfig\bin\Debug\net5.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\luiz.sales\Documents\Projetos-Integracao\EditorDeConfig\EditorDeConfig\bin\Debug\net5.0-windows\System.ServiceProcess.ServiceController.dll

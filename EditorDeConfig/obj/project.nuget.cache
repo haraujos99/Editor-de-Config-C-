@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ptjHad5Zxuwn7eKyMwbK7PT5zObeSqhCJsHiq8YKHrT/dDrlQdWDVEH5+0QJ8JxoIZFD7Y0RO0K8Lg96IKESMQ==",
+  "dgSpecHash": "XUO2tKrfjvKp1yrYbZOT+uab1d7tQOMfEmgLqH1zM5Mfs44qn4WLmVijjkY0oFoVlQm2RprgSPHfEangOD4Ktg==",
   "success": true,
   "projectFilePath": "C:\\Users\\luiz.sales\\Documents\\Projetos-Integracao\\EditorDeConfig\\EditorDeConfig\\EditorDeConfig.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luiz.sales\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512"
+    "C:\\Users\\luiz.sales\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512",
+    "C:\\Users\\luiz.sales\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.sales\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\luiz.sales\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
